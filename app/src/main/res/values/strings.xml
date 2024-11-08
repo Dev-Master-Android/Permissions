@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="camera_screen">Camera Screen</string>
+    <string name="contacts_screen">Contacts Screen</string>
+    <string name="request_camera_permission">Request Camera Permission</string>
+    <string name="permission_app">Permission App</string>
+    <string name="request_contacts_permission">Request Contacts Permission</string>
+    <string name="exit">Выход</string>
+</resources>
